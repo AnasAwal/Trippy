@@ -1,0 +1,30 @@
+.recent .container .card{
+    width: 345px;
+    height: 450px;
+    box-shadow: 0 5px 25px 2px rgba(0, 0, 0, 0.11);
+    border-radius: 7px;
+    cursor: pointer;
+    padding: 1rem 0.8rem;
+}
+
+.recent .container .card .image {
+    width: 100%;
+    height: 200px;
+    border-radius: 7px;
+    overflow: hidden;
+}
+
+.recent .container .card img {
+    width: 100%;
+    transition: all 1s;
+}
+
+.recent .container .card img:hover {
+    width: 100%;
+    transform: scale(1.5);
+}
+
+.recent .container .card h2 {
+    font-size: 1.3rem;
+    padding: 0.9rem 0 0.2rem 0;
+}

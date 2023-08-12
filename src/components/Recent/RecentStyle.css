@@ -1,0 +1,23 @@
+.recent {
+    margin-top: 5rem;
+}
+
+.recent .container {
+    display: flex;
+    width: 80vw;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px auto 0;
+    
+}
+
+.recent .title {
+    margin: 0 auto;
+    width: max-content;
+    font-size: 3rem;
+}
+
+.recent .secTitle {
+    width: max-content;
+    margin: 0 auto;
+}

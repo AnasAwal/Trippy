@@ -1,0 +1,14 @@
+.papular {
+    margin-top: 5rem;
+}
+
+.papular .title {
+    margin: 0 auto;
+    width: max-content;
+    font-size: 3rem;
+}
+
+.papular .secTitle {
+    width: max-content;
+    margin: 0 auto;
+}
